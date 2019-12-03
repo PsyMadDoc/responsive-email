@@ -1,1 +1,1 @@
-# responsive-email
+# Responsive email
